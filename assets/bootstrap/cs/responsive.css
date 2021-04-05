@@ -1,0 +1,310 @@
+@media only screen and  (min-width: 770px) {
+  body {
+    padding-top: 50px;
+  }
+}
+/*above tablet */
+@media only screen and  (max-width: 768px) {
+  body {
+    padding-top: 52px;
+  }
+  .carousel-caption {
+    margin-bottom: 122px;
+  }
+  .home_find_doc_by_body_inner li{
+    padding-left: 20px;
+  }
+  .navbar-brand{
+    padding: 10px 26px;
+  }
+  nav img.logo {
+    max-width: 65px;
+  }
+  #searc_results .doc_img {
+    width: 100%;height: auto;
+  }
+  #doc_nav{
+        margin-top: 50px;
+  }
+}
+/* Below tablest */
+@media only screen and  (max-width: 767px) {
+  body {
+    padding-top: 52px;
+  }
+  nav img.logo {
+    max-width: 74px;
+    margin-left: 16px;
+  }
+  .navbar-default .navbar-toggle {
+    margin-right: 40px;
+  }
+  footer.top_doctor h1{
+    margin-top: 0;
+    font-size: 20px;
+  }
+  footer.top_doctor h4{
+    font-size: 15px;
+  }
+  footer.support h3{
+    margin-top: 0;
+    text-align: center;
+  }
+  footer.support h4{
+    font-size: 12px;
+  }
+  
+  footer.support ul li{
+    margin-left: 10px;
+    font-size: 10px;
+  }
+  footer.footer_last_section h4{
+    font-size: 12px;
+  }
+  .home_chose_best_dt_body_inner h1{
+    font-size: 18px;
+  }
+  .home_find_doc_by_body_inner h2{
+    font-size: 16px;
+  }
+  .home_find_doc_by_body_inner h3{
+    font-size: 14px;
+  }
+  form.navbar-form a{
+    display: block;
+    max-width: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  #navbar form.navbar-form {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .navbar-default .navbar-form {
+    border-color: transparent;
+  }
+  .home_find_doc_by_body_inner li  {
+    padding-left: 25px;
+  }
+  .carousel-caption {
+    margin-bottom: -5px;
+  }
+  .home_chose_best_dt_body_inner a {
+    margin-top: 20px;
+  }
+  .block {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #find_doctor .form-group {
+    margin-bottom: 5px;
+  }
+  .home_book_appoint_body_inner{
+        padding-top: 9px;
+  }
+  .zero_doc_result{
+    margin: 0;
+        margin-top: 60px;
+    margin-bottom: 22px;
+  }
+  .row {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  #searc_results .doc_img {
+    width: 100%;height: auto;
+  }
+
+  #doc_nav{
+        margin-top: 50px;
+  }
+}
+
+/* Below tablest */
+@media only screen and  (max-width: 480px) {
+  body {
+    padding-top: 80px;
+  }
+  .carousel-caption #find_doctor h2{
+    font-size: 20px;
+  }
+  .navbar-default .navbar-toggle {
+    margin-right: 13px;margin-top: 20px;
+  }
+  nav img.logo {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  #searc_results .doc_speciality{
+    font-weight: bold;
+  }
+  #searc_results a.view_on_map{
+    font-size: 10px;
+    padding: 3px;
+  }
+  .no_padding_small{
+    padding: 0;
+  }
+  #searc_results thead tr th,#searc_results tfoot tr th{
+    vertical-align: middle;
+  }
+  #searc_results .doc_img {
+    width: 100%;height: auto;margin-bottom: 15px;
+  }
+  #map_model{
+    margin-top: 30px;
+  }
+  #map_model #system_map{
+    margin-top: 30px;
+    height: 250px;
+  }
+  #doc_nav{
+        margin-top: 0px;
+  }
+  .login-box {
+    width: 100%;
+  }
+  .hide_small_screen{
+    display: none;
+  }
+  .social_icons_navbar{
+    margin-left: 25px;
+  }
+  .menue_links{
+    margin-left: 35px;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border-color: transparent;
+  }
+  .container>.navbar-collapse{
+    margin-left: 0px;margin-right: 0px;
+  }
+  .carousel-caption #find_software {
+      padding: 0;    padding-bottom: 20px;
+  }
+  .carousel-caption{
+        margin-bottom: 120px;
+  }
+  .find_software_heading{
+    font-size: 22px;
+  }
+  .input-group-lg>.form-control, .input-group-lg>.input-group-addon, .input-group-lg>.input-group-btn>.btn {
+    height: 34px;
+    padding: 9px 9px;
+    font-size: 12px;
+    line-height: 1.3333333;
+  }
+  .slider_custom_img{
+    height: 350px !important;
+  }
+  .ajax_search_title {
+    font-size: 12px;
+    margin:0;
+    padding: 8px 10px;
+  }
+  #datafetch {
+    width: 88%;
+  }
+  .home_page_main_grid{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .panel_home_page>.panel-heading {
+      font-size: 15px;
+  }
+  .panel_home_page>.panel-heading>a {
+    font-size: 12px;
+  }
+}
+@media only screen and  (max-width: 340px) {
+  body {
+    padding-top: 52px;
+  }
+  .carousel-caption {
+    margin-bottom: -65px;
+  }
+  #searc_results .doc_speciality{
+    font-weight: bold;
+  }
+  .no_padding_small{
+    padding: 0;
+  }
+  #searc_results thead tr th,#searc_results tfoot tr th{
+    vertical-align: middle;
+  }
+  #searc_results .doc_img {
+    width: 100%;height: auto;
+    margin-bottom: 15px;
+  }
+  #map_model{
+    margin-top: 30px;
+  }
+  #map_model #system_map{
+    margin-top: 30px;
+    height: 250px;
+  }
+  #doc_nav{
+        margin-top: 0px;
+  }
+  .login-box {
+    width: 100%;
+  }
+  .hide_small_screen{
+    display: none;
+  }
+  .carousel-caption {
+    margin-bottom: -65px;
+  }
+  .carousel-caption #find_software {
+      padding: 0;
+      margin-bottom: 56px;
+  }
+  .social_icons_navbar{
+    margin-left: 11px;
+  }
+  .menue_links{
+    margin-left: 35px;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border-color: transparent;
+  }
+  .container>.navbar-collapse{
+    margin-left: 0px;margin-right: 0px;
+  }
+  .carousel-caption #find_software {
+      padding: 0;    padding-bottom: 20px;
+  }
+  .carousel-caption{
+        margin-bottom: 55px;
+  }
+  .find_software_heading{
+    font-size: 22px;
+  }
+  .input-group-lg>.form-control, .input-group-lg>.input-group-addon, .input-group-lg>.input-group-btn>.btn {
+    height: 34px;
+    padding: 9px 9px;
+    font-size: 12px;
+    line-height: 1.3333333;
+  }
+  .slider_custom_img{
+    height: 350px !important;
+  }
+  .ajax_search_title {
+    font-size: 12px;
+    margin:0;
+    padding: 8px 10px;
+  }
+  #datafetch {
+    width: 88%;
+  }
+  .home_page_main_grid{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .panel_home_page>.panel-heading {
+      font-size: 15px;
+  }
+  .panel_home_page>.panel-heading>a {
+    font-size: 12px;
+  }
+}
